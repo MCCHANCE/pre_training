@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.hi>
+#include <stdlib.h>
 #include <string.h>
 
 // Structure to represent a bank account

@@ -18,7 +18,7 @@ int main()
 		    printf("%d * %d = %d\t", j, i, ans);
 		}
 
-		printf("\n");
+		printf("\n ");
 
 	}
 
